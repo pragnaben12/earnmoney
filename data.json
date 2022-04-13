@@ -1,0 +1,64 @@
+{
+  "aboutads": [
+    {
+      "facebookbanner": "680720752977798_680728899643650",
+      "facebookinterstitial": "680720752977798_680725026310704",
+      "facebooknative": "680720752977798_680728899643650",
+      "disclaimer": "   This app is made by mahabharatadevlopers. \n   if you have any problem then feel free to contact us on mahabharatadevlopers@gmail.com. Thank you. \n we don't own any copyrights of images or details used in this app. all the credits goes to their creator.\n",
+      "appnextid": "7212eb01-73c9-4fc4-96e8-fad9630d4aba",
+      "maxbanner": "56304bd252a6996a",
+      "maxinterstitial": "02409a52b4faa1e7",
+      "maxnative": "395537ad9cfc1a01"
+    }
+  ],
+  "data": [
+    {
+      "isdetail": false,
+      "Name": " ફોર્મ ભરવા માટે ના આવશ્યક દસ્તાવેજો",
+      "detail": "https://rte.orpgujarat.com/CmsPage/Details/1",
+      "imagelink": "https://harshil258.github.io/RTE_app/Untitled.jpg"
+    },
+    {
+      "isdetail": false,
+      "Name": "અપલોડ કરવાના થતા ડોક્યમ ેન્ટ",
+      "detail": "https://harshil258.github.io/RTE_app/requireddoc.jpg",
+      "imagelink": "https://harshil258.github.io/RTE_app/documenrtoupload.jpg"
+    },
+    {
+      "isdetail": false,
+      "Name": "સ્કૂલલિસ્ટ ",
+      "detail": "https://rte.orpgujarat.com/Common/SchoolList",
+      "imagelink": "https://harshil258.github.io/RTE_app/Untitled(3).png"
+    },
+    {
+      "isdetail": false,
+      "Name": "અરજી ની સ્થિતિ ",
+      "detail": "https://rte.orpgujarat.com/ApplicationFormStatus",
+      "imagelink": "https://harshil258.github.io/RTE_app/sthiti.jpg"
+    },
+    {
+      "isdetail": false,
+      "Name": "Admit Card of RTE Gujarat Admission ",
+      "detail": "https://rteinfoapp.blogspot.com/2022/04/admit-card-of-rte-gujarat-admission.html",
+      "imagelink": "https://harshil258.github.io/RTE_app/Untitled(9).jpg"
+    },
+    {
+      "isdetail": false,
+      "Name": "Official Site",
+      "detail": "https://rte.orpgujarat.com/",
+      "imagelink": "https://harshil258.github.io/RTE_app/Untitled(5).jpg"
+    },
+    {
+      "isdetail": false,
+      "Name": "Rajasthan RTE",
+      "detail": "https://rajpsp.nic.in/PSP4/Home/home.aspx",
+      "imagelink": "https://harshil258.github.io/RTE_app/Untitled(2).jpg"
+    },
+    {
+      "isdetail": false,
+      "Name": "Procedure To View Contact Details",
+      "detail": "https://rteinfoapp.blogspot.com/2022/04/procedure-to-view-contact-details.html",
+      "imagelink": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhbFzr--kEgycjaP7ltdfRKJPQQ06yUIoCUcJ5JalKVItLp5qOQvBlbtcowFPgOvIyhGytwMal2KUjks0zstPs7exgsmW7IwzKuRWLFRQciY9clUQ1LWn0a9yZZivTdX81spXrqv63melFEUuEF99qaGUVa0B8dKC7I9_JMYIVgt4Q5tyC9IhsYOxSK/s900/contact.jpg"
+    }
+  ]
+}
