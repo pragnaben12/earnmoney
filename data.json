@@ -4,7 +4,7 @@
       "ADSON": true,
       "facebookbanner": "665358998099742_665359288099713",
       "facebookinterstitial": "665358998099742_66536021476628",
-      "facebooknative": "665358998099742_665360404766268",
+     "facebooknative": "665358998099742_665360404766268",
       "facebookrewarded": "665358998099742_665922851376690",
       "disclaimer": "This app is made by Harshil Vekariya. we don't own any copyrights of images or details used in this app or we are not a government entity. all the credits goes to their creator. our app doesn't collect any information from users. we are just providing information that is already available on the internet publicly.\nif you have any problem then feel free to contact us at sofarinfotech@gmail.com. Thank you.",
       "appnextid": "7212eb01-73c9-4fc4-96e8",
@@ -12,6 +12,11 @@
       "maxinterstitial": "8833fd0925bfd8ae",
       "maxnative": "4b35c7c09fac15b7",
       "maxrewarded": "0d389a87d6530376",
+      "appnextid": "16d345b2-bac8-4999-ac28-892c968c1e9b",
+      "maxbanner": "821aea7a98fd40db",
+      "maxinterstitial": "c8ee0a0cb3f030f8",
+      "maxnative": "1616f2eedd9f3017",
+      "maxrewarded": "33071a13a488687a",
       "interstitialfrequancy": 1,
       "nativefrequancy": 1
     }
