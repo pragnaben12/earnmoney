@@ -1,7 +1,7 @@
 {
   "aboutads": [
     {
-      "ADSON":false,
+      "ADSON":true,
       "facebookbanner": "665358998099742_665359288099713",
       "facebookinterstitial": "665358998099742_685012409467734",
      "facebooknative": "665358998099742_685131396122502",
@@ -16,7 +16,7 @@
       "maxnative": "1616f2eedd9f3017",
       "maxnative2": "5e4d62f2ae0e396b",
       "maxrewarded": "33071a13a488687a",
-      "interstitialfrequancy": 1,
+      "interstitialfrequancy": 2,
       "nativefrequancy": 2
     }
   ],
